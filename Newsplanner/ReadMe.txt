@@ -1,0 +1,1 @@
+Newsplanner Common Functions
