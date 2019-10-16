@@ -1,4 +1,4 @@
 
 function doGet(e){
-    Logger.log("New file");
+    Logger.log("New file DEVELOP");
 }
